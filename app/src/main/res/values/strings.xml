@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ActressListSearch</string>
+
+    <string-array name="names">
+        <item>Andrea Brillantes</item>
+        <item>Angel Locsin</item>
+        <item>Anne Curtis</item>
+        <item>Barbie Imperial</item>
+        <item>Bea Alonzo</item>
+        <item>Cristine Reyes</item>
+        <item>Ella Cruz</item>
+        <item>Janella Salvador</item>
+        <item>Julia Barreto</item>
+        <item>Julia Montes</item>
+        <item>Kim Chiu</item>
+        <item>Loisa Andalio</item>
+        <item>Marian Rivera</item>
+        <item>Maris Racal</item>
+        <item>Nadine Lustre</item>
+
+    </string-array>
+</resources>

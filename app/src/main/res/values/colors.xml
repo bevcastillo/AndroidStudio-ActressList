@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2c3e50</color>
+    <color name="colorPrimaryDark">#17202a</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--other colors used in this app-->
+    <color name="SkyBlue">#85c1e9</color>
+    <color name="White">#fefefe</color>
+    <color name="Gray">#808080</color>
+    <color name="Black">#212121</color>
+
+</resources>
